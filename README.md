@@ -1,5 +1,8 @@
 ## Hi there! 👋 Welcome to my corner of GitHub
 
+![Profile Views](https://komarev.com/ghpvc/?username=sprchuoi&color=blue&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/sprchuoi?style=flat-square&logo=github)](https://github.com/sprchuoi)
+
 I'm an **Embedded Systems Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation. With deep expertise in **AUTOSAR**, **RTOS**, and **Linux** environments, I build robust, real-time systems that power modern vehicles. My work spans across system architecture, simulation frameworks, and rigorous testing methodologies—always thinking at the system level to ensure reliability and performance.
 
 ### 🔧 Core Technologies
