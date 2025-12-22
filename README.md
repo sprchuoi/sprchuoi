@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to my corner of GitHub
 
-<!--
-**sprchuoi/sprchuoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Embedded Systems Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation. With deep expertise in **AUTOSAR**, **RTOS**, and **Linux** environments, I build robust, real-time systems that power modern vehicles. My work spans across system architecture, simulation frameworks, and rigorous testing methodologies—always thinking at the system level to ensure reliability and performance.
 
-Here are some ideas to get you started:
+### 🔧 Core Technologies
+- **Languages:** C, C++, Python
+- **Automotive:** AUTOSAR, CAN, SOME/IP, vECU
+- **RTOS & Embedded:** FreeRTOS, Zephyr, Linux
+- **DevOps & Tools:** Yocto, QEMU, Docker, Git
+- **Focus Areas:** Simulation, System Testing, Real-time Performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+I design and implement embedded software solutions for automotive applications, with a strong emphasis on simulation-driven development and comprehensive testing. Whether it's building virtual ECU environments, integrating middleware stacks, or optimizing RTOS performance, I thrive on solving complex system-level challenges.
