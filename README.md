@@ -2,15 +2,25 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sprchuoi&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/sprchuoi?style=flat-square&logo=github)](https://github.com/sprchuoi)
+[![CI](https://github.com/sprchuoi/my-embedded-project/actions/workflows/ci.yml/badge.svg)](
+https://github.com/sprchuoi/smart_home_idf/actions/workflows/ci.yml
+)
 
-I'm an **Embedded Systems Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation. With deep expertise in **AUTOSAR**, **RTOS**, and **Linux** environments, I build robust, real-time systems that power modern vehicles. My work spans across system architecture, simulation frameworks, and rigorous testing methodologies—always thinking at the system level to ensure reliability and performance.
+I'm an **Embedded Systems Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation.  
+I work across **AUTOSAR**, **RTOS**, and **Linux** environments, building robust real-time systems for modern vehicles.  
+My focus is on **system architecture, simulation frameworks, and test-driven validation**, ensuring reliability and performance from early development stages.
+
+---
 
 ### 🔧 Core Technologies
-- **Languages:** C, C++, Python
-- **Automotive:** AUTOSAR, CAN, SOME/IP, vECU
-- **RTOS & Embedded:** FreeRTOS, Zephyr, Linux
-- **DevOps & Tools:** Yocto, QEMU, Docker, Git
-- **Focus Areas:** Simulation, System Testing, Real-time Performance
+- **Languages:** C, C++, Python  
+- **Automotive:** AUTOSAR, CAN, SOME/IP, vECU  
+- **RTOS & Embedded:** FreeRTOS, Zephyr, Linux  
+- **DevOps & Tools:** Yocto, QEMU, Docker, Git  
+- **Focus Areas:** Simulation, System Testing, Real-time Performance  
+
+---
 
 ### 🚀 What I Do
-I design and implement embedded software solutions for automotive applications, with a strong emphasis on simulation-driven development and comprehensive testing. Whether it's building virtual ECU environments, integrating middleware stacks, or optimizing RTOS performance, I thrive on solving complex system-level challenges.
+I design and implement embedded software solutions for automotive systems with a strong emphasis on **simulation-driven development** and **early validation**.  
+From building **vECU environments** and **middleware integration** to **RTOS optimization and system-level testing**, I enjoy solving complex cross-layer challenges.
