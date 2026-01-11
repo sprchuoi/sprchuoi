@@ -6,9 +6,9 @@
 https://github.com/sprchuoi/smart_home_idf/actions/workflows/ci.yml
 )
 
-I'm an **Embedded Systems Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation.  
-I work across **AUTOSAR**, **RTOS**, and **Linux** environments, building robust real-time systems for modern vehicles.  
-My focus is on **system architecture, simulation frameworks, and test-driven validation**, ensuring reliability and performance from early development stages.
+I'm an **Embedded Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation.  
+I work across **AUTOSAR**, **RTOS**, and **Linux**, building robust real-time systems for modern vehicles.  
+My focus is on **system architecture, simulation frameworks, kernel hacking**, ensuring reliability and performance from early development stages.
 
 ---
 
@@ -16,8 +16,11 @@ My focus is on **system architecture, simulation frameworks, and test-driven val
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sprchuoi&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sprchuoi&layout=compact&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sprchuoi&theme=github-dark)
+![C](https://img.shields.io/badge/C-Embedded-blue)
+![C++](https://img.shields.io/badge/C++-Automotive-orange)
+![Python](https://img.shields.io/badge/Python-Automation-green)
+![CAN](https://img.shields.io/badge/CAN-Automotive-red)
 
 </div>
 
@@ -34,4 +37,4 @@ My focus is on **system architecture, simulation frameworks, and test-driven val
 
 ### 🚀 What I Do
 I design and implement embedded software solutions for automotive systems with a strong emphasis on **simulation-driven development** and **early validation**.  
-From building **vECU environments** and **middleware integration** to **RTOS optimization and system-level testing**, I enjoy solving complex cross-layer challenges.
+From building **vECU environments** and **middleware integration** to **RTOS, Linux optimization**, I enjoy solving complex cross-layer challenges.
