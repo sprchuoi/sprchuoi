@@ -7,6 +7,7 @@ https://github.com/sprchuoi/smart_home_idf/actions/workflows/ci.yml
 )
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sprchuoi?theme=dark&font=Nunito&ext=contest)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sprchuoi&theme=dark)
 
 I'm an **Embedded Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation.  
 I work across **AUTOSAR**, **RTOS**, and **Linux**, building robust real-time systems for modern vehicles.  
