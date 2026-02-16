@@ -8,9 +8,9 @@ https://github.com/sprchuoi/smart_home_idf/actions/workflows/ci.yml
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/<your-username>)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/sprchuoi)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/<your-username>?theme=dark&font=Nunito&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sprchuoi?theme=dark&font=Nunito&ext=activity)
 
 </div>
 
