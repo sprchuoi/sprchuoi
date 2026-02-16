@@ -5,7 +5,9 @@
 [![CI](https://github.com/sprchuoi/smart_home_idf/actions/workflows/ci.yml/badge.svg)](
 https://github.com/sprchuoi/smart_home_idf/actions/workflows/ci.yml
 )
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sprchuoi?theme=dark&font=Nunito&ext=contest)
+
 I'm an **Embedded Engineer** specializing in **Automotive Software** development and **Virtual ECU (vECU)** simulation.  
 I work across **AUTOSAR**, **RTOS**, and **Linux**, building robust real-time systems for modern vehicles.  
 My focus is on **system architecture, simulation frameworks, kernel hacking**, ensuring reliability and performance from early development stages.
